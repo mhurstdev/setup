@@ -1,3 +1,3 @@
 ```
-curl -fsSL https://martinbarnes.dev/setup | bash
+curl -fsSL https://martinhurst.com/setup | bash
 ```
